@@ -1,0 +1,7 @@
+{
+    "name": "Voltxt Solana Payment Gateway",
+    "version": "1.0.0", 
+    "author": "Voltxt",
+    "link": "https://voltxt.io",
+    "instruction": "Solana cryptocurrency payment gateway for OpenCart 4.x"
+}
